@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+data/
+resource/
+resources/
+*.zip
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
